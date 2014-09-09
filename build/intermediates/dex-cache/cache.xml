@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/varun/AndroidStudioProjects/sensorcon-air-quality-monitor/app/build/intermediates/pre-dexed/debug/classes-cb8086c5fdb08d55a0c9043180f8cb121cf2a863.jar"
+        jar="/home/varun/AndroidStudioProjects/sensorcon-air-quality-monitor/app/build/intermediates/exploded-aar/sensorcon-air-quality-monitor/app2/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="c2f5c786892ebd47fab1ce04a28204823b4fdf12"/>
+    <item
+        dex="/home/varun/AndroidStudioProjects/sensorcon-air-quality-monitor/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-5d18d8468cb41ef7b6f1b894a84ef6408884ab14.jar"
+        jar="/home/varun/Development/android-studio/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="/home/varun/AndroidStudioProjects/sensorcon-air-quality-monitor/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-bb56dffd698266f48020e4c0048c5887fdad2349.jar"
+        jar="/home/varun/AndroidStudioProjects/sensorcon-air-quality-monitor/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="/home/varun/AndroidStudioProjects/sensorcon-air-quality-monitor/app/build/intermediates/pre-dexed/debug/classes-2c2d415dfac3dc4a1664129b2323f72b9eff5a0c.jar"
+        jar="/home/varun/AndroidStudioProjects/sensorcon-air-quality-monitor/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+
+</pre-dex-items>
